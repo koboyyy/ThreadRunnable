@@ -1,4 +1,4 @@
-package id.ac.polbeng.asmira.threadrunnable
+package id.ac.polbeng.eko.threadrunnable
 
 import org.junit.Test
 

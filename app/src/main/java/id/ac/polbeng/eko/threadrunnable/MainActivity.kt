@@ -1,4 +1,4 @@
-package id.ac.polbeng.asmira.threadrunnable
+package id.ac.polbeng.eko.threadrunnable
 
 import android.os.Bundle
 import android.widget.Toast
@@ -10,7 +10,7 @@ import androidx.work.OneTimeWorkRequestBuilder
 import androidx.work.WorkInfo
 import androidx.work.WorkManager
 import androidx.work.workDataOf
-import id.ac.polbeng.asmira.threadrunnable.databinding.ActivityMainBinding
+import id.ac.polbeng.eko.threadrunnable.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

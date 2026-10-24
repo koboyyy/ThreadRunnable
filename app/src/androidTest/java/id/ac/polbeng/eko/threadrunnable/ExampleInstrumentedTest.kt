@@ -1,4 +1,4 @@
-package id.ac.polbeng.asmira.threadrunnable
+package id.ac.polbeng.eko.threadrunnable
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "id.ac.polbeng.asmira.threadrunnable"
+    namespace = "id.ac.polbeng.eko.threadrunnable"
     compileSdk {
         version = release(37) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "id.ac.polbeng.asmira.threadrunnable"
+        applicationId = "id.ac.polbeng.eko.threadrunnable"
         minSdk = 27
         targetSdk = 36
         versionCode = 1
